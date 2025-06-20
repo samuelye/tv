@@ -1,68 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="央视高清",CCTV-4K(色彩准确)
-http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-1高清
-http://iptv.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-1香港版高清
-http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-2高清
-http://iptv.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-3高清
-http://iptv.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-4高清
-http://iptv.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-5高清
-http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-5+高清
-http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-6高清
-http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-7高清
-http://iptv.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-8高清
-http://iptv.tvfix.org/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-9高清
-http://iptv.tvfix.org/hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-10高清
-http://iptv.tvfix.org/hls/cctv10hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-11高清
-http://iptv.tvfix.org/hls/cctv11hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-12高清
-http://iptv.tvfix.org/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-13高清
-http://iptv.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-14高清
-http://iptv.tvfix.org/hls/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-15高清
-http://iptv.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-16高清
-http://iptv.tvfix.org/hls/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视高清",CCTV-17高清
-http://iptv.tvfix.org/hls/cctv17hd.m3u8
-#EXTINF:-1 group-title="央视高清",CGTN高清
-http://iptv.tvfix.org/hls/cgtnhd.m3u8
-#EXTINF:-1 group-title="央视高清",CGTN纪录高清
-http://iptv.tvfix.org/hls/cgtndochd.m3u8
-#EXTINF:-1 group-title="央视高清",CGTN法语高清
-http://iptv.tvfix.org/hls/cgtnfhd.m3u8
-#EXTINF:-1 group-title="央视高清",CGTN俄语高清
-http://iptv.tvfix.org/hls/cgtnehd.m3u8
-#EXTINF:-1 group-title="央视高清",CGTN阿拉伯语高清
-http://iptv.tvfix.org/hls/cgtnahd.m3u8
-#EXTINF:-1 group-title="央视高清",CGTN西班牙语高清
-http://iptv.tvfix.org/hls/cgtnxhd.m3u8
+#EXTINF:-1 group-title="内地",CCTV-1
+https://live.tvfix.org/live/cctv1hd/index.m3u8
+#EXTINF:-1 group-title="内地",中国电影
+https://live.tvfix.org/live/cmc/index.m3u8
+#EXTINF:-1 group-title="内地",东方卫视
+https://live.tvfix.org/live/dfhd/index.m3u8
+#EXTINF:-1 group-title="内地",CGTN记录频道
+https://live.tvfix.org/live/cgtndochd/index.m3u8
+#EXTINF:-1 group-title="港台",翡翠台
+https://live.tvfix.org/live/jade/index.m3u8
+#EXTINF:-1 group-title="港台",凤凰中文台
+https://live.tvfix.org/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="港台",凤凰资讯台
+https://live.tvfix.org/live/fwzx/index.m3u8
+#EXTINF:-1 group-title="港台",亚洲新闻台
+https://live.tvfix.org/live/newsasia/index.m3u8
+#EXTINF:-1 group-title="港台",无线新闻台
+https://live.tvfix.org/live/tvbs/index.m3u8
+#EXTINF:-1 group-title="港台",无线Plus台
+https://live.tvfix.org/live/tvbplus/index.m3u8
 
-#EXTINF:-1 group-title="卫视高清",北京卫视高清
-http://iptv.tvfix.org/hls/brtv1hd.m3u8
-#EXTINF:-1 group-title="卫视高清",湖南卫视高清
-http://iptv.tvfix.org/hls/hunanhd.m3u8
-#EXTINF:-1 group-title="卫视高清",浙江卫视高清
-http://iptv.tvfix.org/hls/zjhd.m3u8
-#EXTINF:-1 group-title="卫视高清",江苏卫视高清
-http://iptv.tvfix.org/hls/jshd.m3u8
-#EXTINF:-1 group-title="卫视高清",东方卫视高清
-http://iptv.tvfix.org/hls/dfhd.m3u8
-#EXTINF:-1 group-title="卫视高清",安徽卫视高清
-http://iptv.tvfix.org/hls/ahhd.m3u8
-#EXTINF:-1 group-title="卫视高清",黑龙江卫视
